@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SB COFFEE SHOP RATINGS</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_ok">OK</string>
+    <string name="edit_message">Leave a review</string>
+
+    <string-array name="cs_courses">
+        <item>Starbucks</item>
+        <item>Handlebar Coffee Roasters</item>
+        <item>Santa Barbara Roasting Company</item>
+        <item>Green Star Coffee</item>
+        <item>The Daily Grind Coffee</item>
+        <item>Good Cup</item>
+        <item>Bree\'osh</item>
+        <item>Goleta Coffee Company</item>
+        <item>Cat Therapy</item>
+        <item>Dawn Patrol</item>
+        <item>Java Station</item>
+        <item>The Shop Kitchen</item>
+        <item>Helena Avenue Bakery</item>
+        <item>Breakfast Culture Club</item>
+        <item>Peet\'s Coffee</item>
+        <item>Tangonadas</item>
+        <item>Good Cup Downtown</item>
+        <item>Vices and Spices</item>
+        <item>Elsie's</item>
+    </string-array>
+</resources>
